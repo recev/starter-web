@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 Just do something
+
+All right reserved
