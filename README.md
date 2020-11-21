@@ -8,6 +8,6 @@ Sample website with plenty of files for demos
 some quick fixs
 
 ## How To Contribute
-Just do something
+a few changes
 
 All right reserved
